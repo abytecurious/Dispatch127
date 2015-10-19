@@ -1,0 +1,13 @@
+{
+  "title": "Dispatch127",
+  "name": "dispatch127",
+  "version": "0.0.1",
+  "description": "Route requests to external URLs to a localhost folder",
+  "main": "index.js",
+  "author": "AByteCurious",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
